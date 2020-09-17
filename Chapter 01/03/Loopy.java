@@ -1,3 +1,8 @@
+/* Page 12 in the book
+   Page 46 in the PDF
+   Using a while loop
+*/
+
 public class Loopy {
 	public static void main (String[] args) {
 		int x = 1;

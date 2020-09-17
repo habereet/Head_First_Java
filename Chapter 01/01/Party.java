@@ -1,6 +1,11 @@
 import java.awt.*;
 import java.awt.event.*;
 
+/* Page 3 in the book
+   Page 37 in the PDF
+   This code is ONLY an exampl and won't work
+*/
+
 class Party	{
 	public void buildInvite() {
 		Frame f = new Frame();
