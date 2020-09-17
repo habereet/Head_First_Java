@@ -1,4 +1,4 @@
-'''java
+```java
 int size = 27;
 String name = “Fido”;
 Dog myDog = new Dog(name, size);
@@ -18,4 +18,4 @@ try {
 catch(FileNotFoundException ex) {
 	System.out.print(“File not found.”);
 }
-'''
+```
