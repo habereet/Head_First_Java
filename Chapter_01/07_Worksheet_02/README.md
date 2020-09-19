@@ -1,5 +1,9 @@
 Page 13 in the book
 Page 47 in the PDF
+
+Target Output is:
+DooBeeDooBeeDo
+
 Fill in the missing code
 
 ```java

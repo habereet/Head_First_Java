@@ -1,4 +1,6 @@
 // Code from worksheet with my answers
+// Target Output is:
+// DooBeeDooBeeDo
 
 public class DooBee {
 	public static void main(String[] args) {
