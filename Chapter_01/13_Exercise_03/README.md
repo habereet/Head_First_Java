@@ -2,9 +2,13 @@ Page 24 in the book
 Page 58 in the PDF
 
 Use some of the snippets below to complete the below block of code to output the following:
+
 > java PoolPuzzleOne
+
 > a noise
+
 > annoise
+
 > an oyster
 
 Code block with missing lines
