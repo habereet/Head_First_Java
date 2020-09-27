@@ -13,7 +13,7 @@ class Test {
       /*
         Missing Block
       */
-      System.oug.print(x + "" + y + " ");
+      System.out.print(x + "" + y + " ");
       x = x + 1;
     }
   }
