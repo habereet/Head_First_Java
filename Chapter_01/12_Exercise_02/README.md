@@ -51,26 +51,31 @@ y = y + 2;
 Potential Outputs
 ```Java
 // Output 1
-22 46
+22 46 
 
 // Output 2
 11 34 59
+Block 4
 
 // Output 3
 02 14 26 38
 
 // Output 4
 02 14 36 48
+Block 5
 
 // Output 5
 00 11 21 32 42
+Block 1
 
 // Output 6
 11 21 32 42 53
 
 // Output 7
 00 11 23 36 410
+Block 2
 
-Output 8
+//Output 8
 02 14 25 36 47
+Block 3
 ```
