@@ -51,7 +51,8 @@ y = y + 2;
 Potential Outputs
 ```Java
 // Output 1
-22 46 
+22 46
+No matching block
 
 // Output 2
 11 34 59
@@ -59,6 +60,7 @@ Block 4
 
 // Output 3
 02 14 26 38
+No matching block
 
 // Output 4
 02 14 36 48
@@ -70,6 +72,7 @@ Block 1
 
 // Output 6
 11 21 32 42 53
+No matching block
 
 // Output 7
 00 11 23 36 410
