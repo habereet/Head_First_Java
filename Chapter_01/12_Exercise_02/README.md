@@ -1,3 +1,6 @@
+Page 23 in the book
+Page 57 in the PDF
+
 A short program is below.
 
 One block is missing.
