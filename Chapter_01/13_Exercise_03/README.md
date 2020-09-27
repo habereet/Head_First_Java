@@ -52,6 +52,11 @@ Snippets:
 * x > 3;
 * x < 4;
 
+* x = x + 1;
+* x = x + 2;
+* x = x - 2;
+* x = x - 1;
+
 * System.out.print("noys ");
 * System.out.print("oise ");
 * System.out.print(" oyster ");
