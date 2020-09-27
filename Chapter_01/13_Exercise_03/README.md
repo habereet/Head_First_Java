@@ -13,7 +13,7 @@ Use some of the snippets below to complete the below block of code to output the
 
 Code block with missing lines
 ```Java
-class PoolPuzzleOne
+class PoolPuzzleOne {
 	public static void main(String[] args) {
 		int x = 0;
 		
