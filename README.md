@@ -10,6 +10,6 @@ From page xxviii:
 
 # To-Do:
 - [x] Start Chapter One
-- [x] Chapter One
+- [x] Finish Chapter One
 - [ ] Set up GPG Keys (or other method) on local for [Verified Commit Signatures](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/managing-commit-signature-verification)
 - [ ] Start Chapter Two
