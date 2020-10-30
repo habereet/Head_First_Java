@@ -1,4 +1,4 @@
-Since I'm fairly comfortable with Python at this point, I want to expand my skillset to include Java
+I'm fairly comfortable with Python at this point, I want to expand my skillset to include Java
 
 This repository will be the code I generate as I work through the code for [Head First Java](https://smile.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208).
 
